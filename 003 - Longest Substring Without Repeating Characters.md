@@ -1,4 +1,4 @@
-#3 - Longest Substring Without Repeating Characters
+# 3 - Longest Substring Without Repeating Characters
 
 ### Problem
 <p>Given a string, find the length of the <b>longest substring</b> without repeating characters.</p>

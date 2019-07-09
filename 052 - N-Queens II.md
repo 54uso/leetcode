@@ -1,4 +1,4 @@
-#52 - N-Queens II
+# 52 - N-Queens II
 
 ### Problem
 <p>The <em>n</em>-queens puzzle is the problem of placing <em>n</em> queens on an <em>n</em>&times;<em>n</em> chessboard such that no two queens attack each other.</p>

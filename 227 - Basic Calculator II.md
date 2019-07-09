@@ -1,4 +1,4 @@
-#227 - Basic Calculator II
+# 227 - Basic Calculator II
 
 ### Problem
 <p>Implement a basic calculator to evaluate a simple expression string.</p>

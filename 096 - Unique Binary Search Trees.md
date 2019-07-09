@@ -1,4 +1,4 @@
-#96 - Unique Binary Search Trees
+# 96 - Unique Binary Search Trees
 
 ### Problem
 <p>Given <em>n</em>, how many structurally unique <strong>BST&#39;s</strong> (binary search trees) that store values 1 ...&nbsp;<em>n</em>?</p>

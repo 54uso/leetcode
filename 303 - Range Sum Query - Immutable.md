@@ -1,4 +1,4 @@
-#303 - Range Sum Query - Immutable
+# 303 - Range Sum Query - Immutable
 
 ### Problem
 <p>Given an integer array <i>nums</i>, find the sum of the elements between indices <i>i</i> and <i>j</i> (<i>i</i> &le; <i>j</i>), inclusive.</p>

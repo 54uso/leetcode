@@ -1,4 +1,4 @@
-#268 - Missing Number
+# 268 - Missing Number
 
 ### Problem
 <p>Given an array containing <i>n</i> distinct numbers taken from <code>0, 1, 2, ..., n</code>, find the one that is missing from the array.</p>

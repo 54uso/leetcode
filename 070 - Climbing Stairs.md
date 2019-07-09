@@ -1,4 +1,4 @@
-#70 - Climbing Stairs
+# 70 - Climbing Stairs
 
 ### Problem
 <p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>

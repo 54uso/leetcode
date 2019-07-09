@@ -1,4 +1,4 @@
-#171 - Excel Sheet Column Number
+# 171 - Excel Sheet Column Number
 
 ### Problem
 <p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>

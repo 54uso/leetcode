@@ -1,4 +1,4 @@
-#372 - Super Pow
+# 372 - Super Pow
 
 ### Problem
 <p>Your task is to calculate <i>a</i><sup><i>b</i></sup> mod 1337 where <i>a</i> is a positive integer and <i>b</i> is an extremely large positive integer given in the form of an array.</p>

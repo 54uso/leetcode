@@ -1,4 +1,4 @@
-#258 - Add Digits
+# 258 - Add Digits
 
 ### Problem
 <p>Given a non-negative integer <code>num</code>, repeatedly add all its digits until the result has only one digit.</p>

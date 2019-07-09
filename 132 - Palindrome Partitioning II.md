@@ -1,4 +1,4 @@
-#132 - Palindrome Partitioning II
+# 132 - Palindrome Partitioning II
 
 ### Problem
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>

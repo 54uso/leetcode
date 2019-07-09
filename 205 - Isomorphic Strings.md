@@ -1,4 +1,4 @@
-#205 - Isomorphic Strings
+# 205 - Isomorphic Strings
 
 ### Problem
 <p>Given two strings <b><i>s</i></b> and <b><i>t</i></b>, determine if they are isomorphic.</p>

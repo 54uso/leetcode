@@ -1,4 +1,4 @@
-#260 - Single Number III
+# 260 - Single Number III
 
 ### Problem
 <p>Given an array of numbers <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.</p>

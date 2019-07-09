@@ -1,4 +1,4 @@
-#131 - Palindrome Partitioning
+# 131 - Palindrome Partitioning
 
 ### Problem
 <p>Given a string <em>s</em>, partition <em>s</em> such that every substring of the partition is a palindrome.</p>

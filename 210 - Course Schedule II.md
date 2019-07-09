@@ -1,4 +1,4 @@
-#210 - Course Schedule II
+# 210 - Course Schedule II
 
 ### Problem
 <p>There are a total of <em>n</em> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>

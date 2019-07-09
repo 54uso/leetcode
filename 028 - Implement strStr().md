@@ -1,4 +1,4 @@
-#28 - Implement strStr()
+# 28 - Implement strStr()
 
 ### Problem
 <p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>

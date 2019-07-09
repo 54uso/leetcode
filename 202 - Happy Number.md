@@ -1,4 +1,4 @@
-#202 - Happy Number
+# 202 - Happy Number
 
 ### Problem
 <p>Write an algorithm to determine if a number is &quot;happy&quot;.</p>

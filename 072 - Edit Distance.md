@@ -1,4 +1,4 @@
-#72 - Edit Distance
+# 72 - Edit Distance
 
 ### Problem
 <p>Given two words <em>word1</em> and <em>word2</em>, find the minimum number of operations required to convert <em>word1</em> to <em>word2</em>.</p>

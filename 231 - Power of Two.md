@@ -1,4 +1,4 @@
-#231 - Power of Two
+# 231 - Power of Two
 
 ### Problem
 <p>Given an integer, write a function to determine if it is a power of two.</p>

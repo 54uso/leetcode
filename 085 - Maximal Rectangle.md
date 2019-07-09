@@ -1,4 +1,4 @@
-#85 - Maximal Rectangle
+# 85 - Maximal Rectangle
 
 ### Problem
 <p>Given a 2D binary matrix filled with 0&#39;s and 1&#39;s, find the largest rectangle containing only 1&#39;s and return its area.</p>

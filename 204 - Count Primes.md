@@ -1,4 +1,4 @@
-#204 - Count Primes
+# 204 - Count Primes
 
 ### Problem
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>

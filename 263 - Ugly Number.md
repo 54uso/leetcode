@@ -1,4 +1,4 @@
-#263 - Ugly Number
+# 263 - Ugly Number
 
 ### Problem
 <p>Write a program to check whether a given number is an ugly number.</p>

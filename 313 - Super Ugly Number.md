@@ -1,4 +1,4 @@
-#313 - Super Ugly Number
+# 313 - Super Ugly Number
 
 ### Problem
 <p>Write a program to find the <code>n<sup>th</sup></code> super ugly number.</p>

@@ -1,4 +1,4 @@
-#146 - LRU Cache
+# 146 - LRU Cache
 
 ### Problem
 <p>Design and implement a data structure for <a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a>. It should support the following operations: <code>get</code> and <code>put</code>.</p>

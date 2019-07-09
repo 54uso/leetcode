@@ -1,4 +1,4 @@
-#207 - Course Schedule
+# 207 - Course Schedule
 
 ### Problem
 <p>There are a total of <i>n</i> courses you have to take, labeled from <code>0</code> to <code>n-1</code>.</p>

@@ -1,4 +1,4 @@
-#64 - Minimum Path Sum
+# 64 - Minimum Path Sum
 
 ### Problem
 <p>Given a <em>m</em> x <em>n</em> grid filled with non-negative numbers, find a path from top left to bottom right which <em>minimizes</em> the sum of all numbers along its path.</p>

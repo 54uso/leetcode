@@ -1,4 +1,4 @@
-#237 - Delete Node in a Linked List
+# 237 - Delete Node in a Linked List
 
 ### Problem
 <p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>

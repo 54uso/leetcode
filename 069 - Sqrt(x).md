@@ -1,4 +1,4 @@
-#69 - Sqrt(x)
+# 69 - Sqrt(x)
 
 ### Problem
 <p>Implement <code>int sqrt(int x)</code>.</p>

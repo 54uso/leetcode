@@ -1,4 +1,4 @@
-#300 - Longest Increasing Subsequence
+# 300 - Longest Increasing Subsequence
 
 ### Problem
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>

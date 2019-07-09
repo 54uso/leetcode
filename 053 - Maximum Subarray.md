@@ -1,4 +1,4 @@
-#53 - Maximum Subarray
+# 53 - Maximum Subarray
 
 ### Problem
 <p>Given an integer array <code>nums</code>, find the contiguous subarray&nbsp;(containing at least one number) which has the largest sum and return its sum.</p>

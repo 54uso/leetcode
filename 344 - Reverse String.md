@@ -1,4 +1,4 @@
-#344 - Reverse String
+# 344 - Reverse String
 
 ### Problem
 <p>Write a function that reverses a string. The input string is given as an array of characters <code>char[]</code>.</p>

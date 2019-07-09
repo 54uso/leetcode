@@ -1,4 +1,4 @@
-#378 - Kth Smallest Element in a Sorted Matrix
+# 378 - Kth Smallest Element in a Sorted Matrix
 
 ### Problem
 <p>Given a <i>n</i> x <i>n</i> matrix where each of the rows and columns are sorted in ascending order, find the kth smallest element in the matrix.</p>

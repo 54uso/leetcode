@@ -1,4 +1,4 @@
-#217 - Contains Duplicate
+# 217 - Contains Duplicate
 
 ### Problem
 <p>Given an array of integers, find if the array contains any duplicates.</p>

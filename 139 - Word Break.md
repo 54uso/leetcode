@@ -1,4 +1,4 @@
-#139 - Word Break
+# 139 - Word Break
 
 ### Problem
 <p>Given a <strong>non-empty</strong> string <em>s</em> and a dictionary <em>wordDict</em> containing a list of <strong>non-empty</strong> words, determine if <em>s</em> can be segmented into a space-separated sequence of one or more dictionary words.</p>

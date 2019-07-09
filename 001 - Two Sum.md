@@ -1,4 +1,4 @@
-#1 - Two Sum
+# 1 - Two Sum
 
 ### Problem
 <p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.</p>

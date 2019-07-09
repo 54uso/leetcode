@@ -1,4 +1,4 @@
-#347 - Top K Frequent Elements
+# 347 - Top K Frequent Elements
 
 ### Problem
 <p>Given a non-empty array of integers, return the <b><i>k</i></b> most frequent elements.</p>

@@ -1,4 +1,4 @@
-#304 - Range Sum Query 2D - Immutable
+# 304 - Range Sum Query 2D - Immutable
 
 ### Problem
 <p>Given a 2D matrix <i>matrix</i>, find the sum of the elements inside the rectangle defined by its upper left corner (<i>row</i>1, <i>col</i>1) and lower right corner (<i>row</i>2, <i>col</i>2).</p>

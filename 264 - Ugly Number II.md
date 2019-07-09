@@ -1,4 +1,4 @@
-#264 - Ugly Number II
+# 264 - Ugly Number II
 
 ### Problem
 <p>Write a program to find the <code>n</code>-th ugly number.</p>

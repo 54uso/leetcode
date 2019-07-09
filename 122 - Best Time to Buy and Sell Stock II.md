@@ -1,4 +1,4 @@
-#122 - Best Time to Buy and Sell Stock II
+# 122 - Best Time to Buy and Sell Stock II
 
 ### Problem
 <p>Say you have an array for which the <em>i</em><sup>th</sup> element is the price of a given stock on day <em>i</em>.</p>

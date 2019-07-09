@@ -1,4 +1,4 @@
-#137 - Single Number II
+# 137 - Single Number II
 
 ### Problem
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>three</em> times except for one, which appears exactly once. Find that single one.</p>

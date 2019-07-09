@@ -1,4 +1,4 @@
-#309 - Best Time to Buy and Sell Stock with Cooldown
+# 309 - Best Time to Buy and Sell Stock with Cooldown
 
 ### Problem
 <p>Say you have an array for which the <i>i</i><sup>th</sup> element is the price of a given stock on day <i>i</i>.</p>

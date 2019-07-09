@@ -1,4 +1,4 @@
-#192 - Word Frequency
+# 192 - Word Frequency
 
 ### Problem
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>

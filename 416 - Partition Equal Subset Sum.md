@@ -1,4 +1,4 @@
-#416 - Partition Equal Subset Sum
+# 416 - Partition Equal Subset Sum
 
 ### Problem
 <p>Given a <b>non-empty</b> array containing <b>only positive integers</b>, find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal.</p>
