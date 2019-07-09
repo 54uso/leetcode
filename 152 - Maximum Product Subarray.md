@@ -1,3 +1,5 @@
+#152 - Maximum Product Subarray
+
 ### Problem
 <p>Given an integer array&nbsp;<code>nums</code>, find the contiguous subarray within an array (containing at least one number) which has the largest product.</p>
 
@@ -58,3 +60,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/maximum-product-subarray/](https://leetcode.com/problems/maximum-product-subarray/)

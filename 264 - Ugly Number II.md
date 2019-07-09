@@ -1,3 +1,5 @@
+#264 - Ugly Number II
+
 ### Problem
 <p>Write a program to find the <code>n</code>-th ugly number.</p>
 
@@ -54,3 +56,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/ugly-number-ii/](https://leetcode.com/problems/ugly-number-ii/)

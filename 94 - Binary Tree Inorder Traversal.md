@@ -1,3 +1,5 @@
+#94 - Binary Tree Inorder Traversal
+
 ### Problem
 <p>Given a binary tree, return the <em>inorder</em> traversal of its nodes&#39; values.</p>
 
@@ -44,3 +46,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/binary-tree-inorder-traversal/](https://leetcode.com/problems/binary-tree-inorder-traversal/)

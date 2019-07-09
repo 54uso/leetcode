@@ -1,3 +1,5 @@
+#263 - Ugly Number
+
 ### Problem
 <p>Write a program to check whether a given number is an ugly number.</p>
 
@@ -70,3 +72,4 @@ class Solution {
     }
 };
 ```
+### Link: [https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/)

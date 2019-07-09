@@ -1,3 +1,5 @@
+#412 - Fizz Buzz
+
 ### Problem
 <p>Write a program that outputs the string representation of numbers from 1 to <i>n</i>.</p>
 
@@ -52,3 +54,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/fizz-buzz/](https://leetcode.com/problems/fizz-buzz/)

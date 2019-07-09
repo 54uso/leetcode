@@ -1,3 +1,5 @@
+#343 - Integer Break
+
 ### Problem
 <p>Given a positive integer <i>n</i>, break it into the sum of <b>at least</b> two positive integers and maximize the product of those integers. Return the maximum product you can get.</p>
 
@@ -52,3 +54,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/integer-break/](https://leetcode.com/problems/integer-break/)

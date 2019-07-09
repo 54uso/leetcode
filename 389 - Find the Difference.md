@@ -1,3 +1,5 @@
+#389 - Find the Difference
+
 ### Problem
 <p>
 Given two strings <b><i>s</i></b> and <b><i>t</i></b> which consist of only lowercase letters.</p>
@@ -34,3 +36,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)

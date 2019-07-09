@@ -1,3 +1,5 @@
+#202 - Happy Number
+
 ### Problem
 <p>Write an algorithm to determine if a number is &quot;happy&quot;.</p>
 
@@ -41,3 +43,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)

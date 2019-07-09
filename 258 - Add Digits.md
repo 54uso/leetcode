@@ -1,3 +1,5 @@
+#258 - Add Digits
+
 ### Problem
 <p>Given a non-negative integer <code>num</code>, repeatedly add all its digits until the result has only one digit.</p>
 
@@ -31,3 +33,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)

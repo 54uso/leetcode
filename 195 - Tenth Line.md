@@ -1,3 +1,5 @@
+#195 - Tenth Line
+
 ### Problem
 <p>Given a text file&nbsp;<code>file.txt</code>, print&nbsp;just the 10th line of the&nbsp;file.</p>
 
@@ -35,3 +37,4 @@ Line 10
 cat file.txt | sed -n "10p"
 
 ```
+### Link: [https://leetcode.com/problems/tenth-line/](https://leetcode.com/problems/tenth-line/)

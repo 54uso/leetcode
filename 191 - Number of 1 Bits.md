@@ -1,3 +1,5 @@
+#191 - Number of 1 Bits
+
 ### Problem
 <p>Write a function that takes an unsigned integer and return&nbsp;the number of &#39;1&#39;&nbsp;bits it has (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
 
@@ -57,3 +59,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/)

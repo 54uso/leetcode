@@ -1,3 +1,5 @@
+#100 - Same Tree
+
 ### Problem
 <p>Given two binary trees, write a function to check if they are the same or not.</p>
 
@@ -67,3 +69,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/same-tree/](https://leetcode.com/problems/same-tree/)

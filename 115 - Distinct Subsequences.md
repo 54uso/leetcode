@@ -1,3 +1,5 @@
+#115 - Distinct Subsequences
+
 ### Problem
 <p>Given a string <strong>S</strong> and a string <strong>T</strong>, count the number of distinct subsequences of <strong>S</strong> which equals <strong>T</strong>.</p>
 
@@ -64,3 +66,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/distinct-subsequences/](https://leetcode.com/problems/distinct-subsequences/)

@@ -1,3 +1,5 @@
+#226 - Invert Binary Tree
+
 ### Problem
 <p>Invert a binary tree.</p>
 
@@ -50,3 +52,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/invert-binary-tree/](https://leetcode.com/problems/invert-binary-tree/)

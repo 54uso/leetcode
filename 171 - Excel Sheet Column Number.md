@@ -1,3 +1,5 @@
+#171 - Excel Sheet Column Number
+
 ### Problem
 <p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p>
 
@@ -48,3 +50,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/excel-sheet-column-number/](https://leetcode.com/problems/excel-sheet-column-number/)

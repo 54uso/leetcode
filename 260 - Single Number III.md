@@ -1,3 +1,5 @@
+#260 - Single Number III
+
 ### Problem
 <p>Given an array of numbers <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.</p>
 
@@ -62,3 +64,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/single-number-iii/](https://leetcode.com/problems/single-number-iii/)

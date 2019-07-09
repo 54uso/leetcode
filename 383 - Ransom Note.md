@@ -1,3 +1,5 @@
+#383 - Ransom Note
+
 ### Problem
 <p>
 Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom 
@@ -38,3 +40,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/ransom-note/](https://leetcode.com/problems/ransom-note/)

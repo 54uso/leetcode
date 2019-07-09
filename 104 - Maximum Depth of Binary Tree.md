@@ -1,3 +1,5 @@
+#104 - Maximum Depth of Binary Tree
+
 ### Problem
 <p>Given a binary tree, find its maximum depth.</p>
 
@@ -40,3 +42,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

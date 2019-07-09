@@ -1,3 +1,5 @@
+#334 - Increasing Triplet Subsequence
+
 ### Problem
 <p>Given an unsorted array return whether an increasing subsequence of length 3 exists or not in the array.</p>
 
@@ -51,3 +53,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/increasing-triplet-subsequence/](https://leetcode.com/problems/increasing-triplet-subsequence/)

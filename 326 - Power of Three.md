@@ -1,3 +1,5 @@
+#326 - Power of Three
+
 ### Problem
 <p>Given an integer, write a function to determine if it is a power of three.</p>
 
@@ -45,3 +47,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/power-of-three/](https://leetcode.com/problems/power-of-three/)

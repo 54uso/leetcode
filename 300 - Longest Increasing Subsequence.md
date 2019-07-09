@@ -1,3 +1,5 @@
+#300 - Longest Increasing Subsequence
+
 ### Problem
 <p>Given an unsorted array of integers, find the length of longest increasing subsequence.</p>
 
@@ -51,3 +53,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/longest-increasing-subsequence/](https://leetcode.com/problems/longest-increasing-subsequence/)

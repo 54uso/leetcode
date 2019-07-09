@@ -1,3 +1,5 @@
+#28 - Implement strStr()
+
 ### Problem
 <p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 
@@ -32,3 +34,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/implement-strstr/](https://leetcode.com/problems/implement-strstr/)

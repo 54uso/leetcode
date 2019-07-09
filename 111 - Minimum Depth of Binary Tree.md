@@ -1,3 +1,5 @@
+#111 - Minimum Depth of Binary Tree
+
 ### Problem
 <p>Given a binary tree, find its minimum depth.</p>
 
@@ -46,3 +48,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)

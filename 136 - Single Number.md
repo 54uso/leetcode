@@ -1,3 +1,5 @@
+#136 - Single Number
+
 ### Problem
 <p>Given a <strong>non-empty</strong>&nbsp;array of integers, every element appears <em>twice</em> except for one. Find that single one.</p>
 
@@ -33,3 +35,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/single-number/](https://leetcode.com/problems/single-number/)

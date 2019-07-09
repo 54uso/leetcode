@@ -1,3 +1,5 @@
+#70 - Climbing Stairs
+
 ### Problem
 <p>You are climbing a stair case. It takes <em>n</em> steps to reach to the top.</p>
 
@@ -44,3 +46,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)

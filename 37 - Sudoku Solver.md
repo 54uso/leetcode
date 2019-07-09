@@ -1,3 +1,5 @@
+#37 - Sudoku Solver
+
 ### Problem
 <p>Write a program to solve a Sudoku puzzle by filling the empty cells.</p>
 
@@ -152,3 +154,4 @@ public class Solution {
     
 }
 ```
+### Link: [https://leetcode.com/problems/sudoku-solver/](https://leetcode.com/problems/sudoku-solver/)

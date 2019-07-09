@@ -1,3 +1,5 @@
+#238 - Product of Array Except Self
+
 ### Problem
 <p>Given an array <code>nums</code> of <em>n</em> integers where <em>n</em> &gt; 1, &nbsp;return an array <code>output</code> such that <code>output[i]</code> is equal to the product of all the elements of <code>nums</code> except <code>nums[i]</code>.</p>
 
@@ -43,3 +45,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/product-of-array-except-self/](https://leetcode.com/problems/product-of-array-except-self/)

@@ -1,3 +1,5 @@
+#392 - Is Subsequence
+
 ### Problem
 <p>
 Given a string <b>s</b> and a string <b>t</b>, check if <b>s</b> is subsequence of <b>t</b>.
@@ -51,3 +53,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)

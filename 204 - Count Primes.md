@@ -1,3 +1,5 @@
+#204 - Count Primes
+
 ### Problem
 <p>Count the number of prime numbers less than a non-negative number, <b><i>n</i></b>.</p>
 
@@ -29,3 +31,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/count-primes/](https://leetcode.com/problems/count-primes/)

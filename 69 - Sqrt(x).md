@@ -1,3 +1,5 @@
+#69 - Sqrt(x)
+
 ### Problem
 <p>Implement <code>int sqrt(int x)</code>.</p>
 
@@ -31,3 +33,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/sqrtx/](https://leetcode.com/problems/sqrtx/)

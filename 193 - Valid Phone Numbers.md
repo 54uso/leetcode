@@ -1,3 +1,5 @@
+#193 - Valid Phone Numbers
+
 ### Problem
 <p>Given a text file <code>file.txt</code> that contains list of phone numbers (one per line), write a one liner bash script to print all valid phone numbers.</p>
 
@@ -29,3 +31,4 @@
 grep -E '^(\([0-9]{3}\)\s|[0-9]{3}-)[0-9]{3}-[0-9]{4}$' file.txt
 
 ```
+### Link: [https://leetcode.com/problems/valid-phone-numbers/](https://leetcode.com/problems/valid-phone-numbers/)

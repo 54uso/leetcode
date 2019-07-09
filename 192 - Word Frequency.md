@@ -1,3 +1,5 @@
+#192 - Word Frequency
+
 ### Problem
 <p>Write a bash script to calculate the frequency of each word in a text file <code>words.txt</code>.</p>
 
@@ -40,3 +42,4 @@ day 1
 # Read from the file words.txt and output the word frequency list to stdout.
 cat words.txt | awk '{for(i=1;i<=NF;++i) print $i}' | sort | uniq -c | sort -rnk 1 | awk '{print $2, $1}'
 ```
+### Link: [https://leetcode.com/problems/word-frequency/](https://leetcode.com/problems/word-frequency/)

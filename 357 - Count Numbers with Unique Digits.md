@@ -1,3 +1,5 @@
+#357 - Count Numbers with Unique Digits
+
 ### Problem
 <p>Given a <b>non-negative</b> integer n, count all numbers with unique digits, x, where 0 &le; x &lt; 10<sup>n</sup>.</p>
 
@@ -31,3 +33,4 @@ public class Solution {
     }
 }
 ```
+### Link: [https://leetcode.com/problems/count-numbers-with-unique-digits/](https://leetcode.com/problems/count-numbers-with-unique-digits/)

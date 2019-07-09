@@ -1,3 +1,5 @@
+#190 - Reverse Bits
+
 ### Problem
 <p>Reverse bits of a given 32 bits unsigned integer.</p>
 
@@ -48,3 +50,4 @@ public:
     }
 };
 ```
+### Link: [https://leetcode.com/problems/reverse-bits/](https://leetcode.com/problems/reverse-bits/)
